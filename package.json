@@ -1,6 +1,6 @@
 {
   "name": "cryptojs-pako-config-ajax",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Ajax interceptor implemented using cryptojs and pako. With this package, you can encrypt, decrypt, compress and decompress the ajax request body. This makes the transmission of data more secure.",
   "main": "index.js",
   "scripts": {},
