@@ -16,7 +16,7 @@
     "decompress",
     "secure"
   ],
-  "author": "stefanieliang (https://github.com/stefanieliang)",
+  "author": "",
   "license": "(MIT AND Zlib)",
   "dependencies": {
     "crypto-js": "^4.1.1",
